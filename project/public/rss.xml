@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>devpreneur</title>
+    <link>https://www.devpreneur.kr/</link> 
+    <description>Devpreneur | 1인 개발 창업가 플랫폼 - 기획, 개발, 디자인, 마케팅, 비즈니스까지 창업에 필요한 모든 정보를 제공하고, 커뮤니티에서 네트워킹하며 성장할 수 있는 서비스입니다.</description>
+    <item>
+      <title>콘텐츠 게시글 1</title>
+      <link>https://www.devpreneur.kr/</link>
+      <description>글 내용 전체(또는 일부)</description>
+      <pubDate>발행시간</pubDate>
+      <guid>https://www.devpreneur.kr/</guid>
+    </item>
+    <item>
+      <title>콘텐츠 게시글 2</title>
+      <link>https://www.devpreneur.kr/</link>
+      <description>글 내용 전체(또는 일부)</description>
+      <pubDate>발행시간</pubDate>
+      <guid>https://www.devpreneur.kr/</guid>
+    </item>
+  </channel>
+</rss>
