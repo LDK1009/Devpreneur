@@ -1,0 +1,418 @@
+[
+	{
+		"id": 1,
+		"title": "이커머스 플랫폼",
+		"title2": "프로젝트 설명",
+		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
+		"img": "/images/project/project-1.webp",
+		"img2": "/images/project/project-1.webp",
+		"img3": "/images/project/project-6.webp",
+		"img4": "/images/project/project-4.webp",
+		"img5": "/images/project/h5-project-1.webp",
+		"img6": "/images/project/h6-project-1.webp",
+		"img7": "/images/project/project-4.webp",
+		"img8": "/images/project/h10-project-1.webp",
+		"imgLarge": "/images/project/tj-project-1.webp",
+		"detailsImg": "/img/portfolio/portfolio-details-1.jpg",
+		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 이커머스 플랫폼을 구축했습니다.",
+		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
+		"desc1": "목표는 고객의 온라인 판매를 위한 완전한 이커머스 솔루션을 제공하는 것이었습니다. 상품 관리, 주문 처리, 결제 시스템 등 모든 기능을 통합하여 원스톱 쇼핑 경험을 제공합니다.",
+		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 고객 만족도를 높였습니다. SEO 최적화를 통해 검색 엔진에서의 가시성을 향상시켰습니다.",
+		"category": "연결",
+		"featured": true,
+		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
+		"featuredImg": "/img/project/project-2.png",
+		"employee": {
+			"name": "개발자",
+			"desig": "풀스택 개발자",
+			"img": "/img/project/project-1.png"
+		},
+		"tags": ["전략", "성장"],
+		"dataFilter": "impact innovate",
+		"statusItem": [
+			{
+				"title": "카테고리",
+				"desc": "웹 개발"
+			},
+			{
+				"title": "클라이언트",
+				"desc": "스타트업 A"
+			},
+			{
+				"title": "시작일",
+				"desc": "2023년 8월 20일"
+			},
+			{
+				"title": "개발자",
+				"desc": "개인 개발자"
+			}
+		],
+		"descItems": [
+			{
+				"title": "스토리",
+				"desc": "고객은 온라인 판매를 시작하고자 했지만 기존 솔루션들이 복잡하고 비용이 많이 들었습니다. 우리는 맞춤형 이커머스 플랫폼을 구축하여 고객의 요구사항을 정확히 충족시켰습니다. 프로젝트는 3개월에 걸쳐 진행되었으며, 고객의 피드백을 지속적으로 반영하여 최종 결과물을 완성했습니다."
+			},
+			{
+				"title": "우리의 접근 방식",
+				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다. 반응형 디자인과 성능 최적화에 중점을 두어 사용자 경험을 향상시켰습니다."
+			}
+		]
+	},
+	{
+		"id": 2,
+		"title": "디지털 마케팅 캠페인",
+		"title2": "프로젝트 설명",
+		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
+		"img": "/images/project/project-2.webp",
+		"img2": "/images/project/project-4.webp",
+		"img3": "/images/project/project-7.webp",
+		"img4": "/images/project/project-8.webp",
+		"img5": "/images/project/h5-project-1.webp",
+		"img6": "/images/project/h6-project-2.webp",
+		"img7": "/images/project/project-8.webp",
+		"img8": "/images/project/h10-project-2.webp",
+		"imgLarge": "/images/project/tj-project-1.webp",
+		"detailsImg": "/img/portfolio/portfolio-details-2.jpg",
+		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 웹사이트를 구축했습니다.",
+		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
+		"desc1": "목표는 고객의 온라인 마케팅 캠페인을 위한 효과적인 웹사이트를 구축하는 것이었습니다. SEO 최적화와 소셜 미디어 통합을 통해 브랜드 가시성을 높였습니다.",
+		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 고객 만족도를 높였습니다.",
+		"category": "강화",
+		"featured": true,
+		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
+		"featuredImg": "/img/project/project-3.png",
+		"employee": {
+			"name": "",
+			"desig": "",
+			"img": ""
+		},
+		"tags": ["전략", "성장"],
+		"dataFilter": "success lead impact",
+		"statusItem": [
+			{
+				"title": "카테고리",
+				"desc": "웹 개발"
+			},
+			{
+				"title": "클라이언트",
+				"desc": "스타트업 B"
+			},
+			{
+				"title": "시작일",
+				"desc": "2023년 8월 20일"
+			},
+			{
+				"title": "개발자",
+				"desc": "개인 개발자"
+			}
+		],
+		"descItems": [
+			{
+				"title": "스토리",
+				"desc": "고객은 온라인 마케팅 캠페인을 시작하고자 했지만 효과적인 웹사이트가 필요했습니다. 우리는 맞춤형 웹사이트를 구축하여 고객의 요구사항을 정확히 충족시켰습니다."
+			},
+			{
+				"title": "우리의 접근 방식",
+				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다."
+			}
+		]
+	},
+	{
+		"id": 3,
+		"title": "인터랙티브 학습 플랫폼",
+		"title2": "프로젝트 설명",
+		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
+		"img": "/images/project/project-3.webp",
+		"img2": "/images/project/project-5.webp",
+		"img3": "/images/project/project-8.webp",
+		"img4": "/images/project/project-9.webp",
+		"img5": "/images/project/h5-project-3.webp",
+		"img6": "/images/project/h6-project-3.webp",
+		"img7": "/images/project/project-9.webp",
+		"img8": "/images/project/h10-project-3.webp",
+		"imgLarge": "/images/project/tj-project-1.webp",
+		"detailsImg": "/img/portfolio/portfolio-details-3.jpg",
+		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 학습 플랫폼을 구축했습니다.",
+		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
+		"desc1": "목표는 온라인 학습을 위한 완전한 플랫폼을 제공하는 것이었습니다. 강의 관리, 학생 관리, 평가 시스템 등 모든 기능을 통합하여 원스톱 학습 경험을 제공합니다.",
+		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 학습자 만족도를 높였습니다.",
+		"category": "지원",
+		"featured": true,
+		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
+		"featuredImg": "/img/project/project-4.png",
+		"employee": {
+			"name": "",
+			"desig": "",
+			"img": ""
+		},
+		"tags": ["전략", "성장"],
+		"dataFilter": "lead innovate",
+		"statusItem": [
+			{
+				"title": "카테고리",
+				"desc": "웹 개발"
+			},
+			{
+				"title": "클라이언트",
+				"desc": "교육 기관 C"
+			},
+			{
+				"title": "시작일",
+				"desc": "2023년 8월 20일"
+			},
+			{
+				"title": "개발자",
+				"desc": "개인 개발자"
+			}
+		],
+		"descItems": [
+			{
+				"title": "스토리",
+				"desc": "고객은 온라인 학습 플랫폼을 구축하고자 했지만 기존 솔루션들이 복잡하고 비용이 많이 들었습니다. 우리는 맞춤형 학습 플랫폼을 구축하여 고객의 요구사항을 정확히 충족시켰습니다."
+			},
+			{
+				"title": "우리의 접근 방식",
+				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다."
+			}
+		]
+	},
+	{
+		"id": 4,
+		"title": "환경 영향 대시보드",
+		"title2": "프로젝트 설명",
+		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
+		"img": "/images/project/project-4.webp",
+		"img2": "/images/project/project-1.webp",
+		"img3": "/images/project/project-9.webp",
+		"img4": "/images/project/project-4.webp",
+		"img5": "/images/project/h5-project-1.webp",
+		"img6": "/images/project/h6-project-4.webp",
+		"img7": "/images/project/project-4.webp",
+		"img8": "/images/project/h10-project-4.webp",
+		"imgLarge": "/images/project/tj-project-1.webp",
+		"detailsImg": "/img/portfolio/portfolio-details-4.jpg",
+		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 대시보드를 구축했습니다.",
+		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
+		"desc1": "목표는 환경 데이터를 시각화하고 분석할 수 있는 완전한 대시보드를 제공하는 것이었습니다. 실시간 데이터 수집과 분석 기능을 통합하여 인사이트를 제공합니다.",
+		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 사용자 만족도를 높였습니다.",
+		"category": "비즈니스",
+		"featured": false,
+		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
+		"featuredImg": "/img/project/project-2.png",
+		"employee": {
+			"name": "",
+			"desig": "",
+			"img": ""
+		},
+		"tags": ["전략", "성장"],
+		"dataFilter": "success innovate",
+		"statusItem": [
+			{
+				"title": "카테고리",
+				"desc": "웹 개발"
+			},
+			{
+				"title": "클라이언트",
+				"desc": "환경 기업 D"
+			},
+			{
+				"title": "시작일",
+				"desc": "2023년 8월 20일"
+			},
+			{
+				"title": "개발자",
+				"desc": "개인 개발자"
+			}
+		],
+		"descItems": [
+			{
+				"title": "스토리",
+				"desc": "고객은 환경 데이터를 시각화하고 분석할 수 있는 대시보드를 구축하고자 했습니다. 우리는 맞춤형 대시보드를 구축하여 고객의 요구사항을 정확히 충족시켰습니다."
+			},
+			{
+				"title": "우리의 접근 방식",
+				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다."
+			}
+		]
+	},
+	{
+		"id": 5,
+		"title": "성장하는 기업을 위한 리브랜딩 전략",
+		"title2": "프로젝트 설명",
+		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
+		"img": "/images/project/project-3.webp",
+		"img2": "/images/project/project-4.webp",
+		"img3": "/images/project/project-6.webp",
+		"img4": "/images/project/project-8.webp",
+		"img5": "/images/project/h5-project-2.webp",
+		"img6": "/images/project/h6-project-5.webp",
+		"img7": "/images/project/project-8.webp",
+		"img8": "/images/project/h10-project-1.webp",
+		"imgLarge": "/images/project/tj-project-1.webp",
+		"detailsImg": "/img/portfolio/portfolio-details-4.jpg",
+		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 웹사이트를 구축했습니다.",
+		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
+		"desc1": "목표는 기업의 새로운 브랜드 아이덴티티를 반영한 현대적인 웹사이트를 구축하는 것이었습니다. 브랜드 가이드라인에 맞춰 일관된 디자인을 적용했습니다.",
+		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 브랜드 인지도를 높였습니다.",
+
+		"category": "연결",
+		"featured": false,
+		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
+		"featuredImg": "/img/project/project-2.png",
+		"employee": {
+			"name": "",
+			"desig": "",
+			"img": ""
+		},
+		"tags": ["전략", "성장"],
+		"dataFilter": "impact innovate",
+		"statusItem": [
+			{
+				"title": "카테고리",
+				"desc": "웹 개발"
+			},
+			{
+				"title": "클라이언트",
+				"desc": "기업 E"
+			},
+			{
+				"title": "시작일",
+				"desc": "2023년 8월 20일"
+			},
+			{
+				"title": "개발자",
+				"desc": "개인 개발자"
+			}
+		],
+		"descItems": [
+			{
+				"title": "스토리",
+				"desc": "고객은 기업의 새로운 브랜드 아이덴티티를 반영한 현대적인 웹사이트를 구축하고자 했습니다. 우리는 맞춤형 웹사이트를 구축하여 고객의 요구사항을 정확히 충족시켰습니다."
+			},
+			{
+				"title": "우리의 접근 방식",
+				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다."
+			}
+		]
+	},
+	{
+		"id": 6,
+		"title": "통합 마케팅 캠페인",
+		"title2": "프로젝트 설명",
+		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
+		"img": "/images/project/project-2.webp",
+		"img2": "/images/project/project-5.webp",
+		"img3": "/images/project/project-7.webp",
+		"img4": "/images/project/project-9.webp",
+		"img5": "/images/project/h5-project-3.webp",
+		"img6": "/images/project/h6-project-6.webp",
+		"img7": "/images/project/project-9.webp",
+		"img8": "/images/project/h10-project-1.webp",
+		"imgLarge": "/images/project/tj-project-1.webp",
+		"detailsImg": "/img/portfolio/portfolio-details-4.jpg",
+		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 웹사이트를 구축했습니다.",
+		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
+		"desc1": "목표는 통합 마케팅 캠페인을 위한 효과적인 웹사이트를 구축하는 것이었습니다. SEO 최적화와 소셜 미디어 통합을 통해 브랜드 가시성을 높였습니다.",
+		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 고객 만족도를 높였습니다.",
+
+		"category": "연결",
+		"featured": false,
+		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
+		"featuredImg": "/img/project/project-2.png",
+		"employee": {
+			"name": "",
+			"desig": "",
+			"img": ""
+		},
+		"tags": ["전략", "성장"],
+		"dataFilter": "impact innovate",
+		"statusItem": [
+			{
+				"title": "카테고리",
+				"desc": "웹 개발"
+			},
+			{
+				"title": "클라이언트",
+				"desc": "마케팅 기업 F"
+			},
+			{
+				"title": "시작일",
+				"desc": "2023년 8월 20일"
+			},
+			{
+				"title": "개발자",
+				"desc": "개인 개발자"
+			}
+		],
+		"descItems": [
+			{
+				"title": "스토리",
+				"desc": "고객은 통합 마케팅 캠페인을 위한 효과적인 웹사이트를 구축하고자 했습니다. 우리는 맞춤형 웹사이트를 구축하여 고객의 요구사항을 정확히 충족시켰습니다."
+			},
+			{
+				"title": "우리의 접근 방식",
+				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다."
+			}
+		]
+	},
+	{
+		"id": 7,
+		"title": "이벤트 관리 플랫폼",
+		"title2": "프로젝트 설명",
+		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
+		"img": "/images/project/project-4.webp",
+		"img2": "/images/project/project-8.webp",
+		"img3": "/images/project/project-8.webp",
+		"img4": "/images/project/project-4.webp",
+		"img5": "/images/project/h5-project-1.webp",
+		"img6": "/images/project/h6-project-1.webp",
+		"img7": "/images/project/project-4.webp",
+		"img8": "/images/project/h10-project-1.webp",
+		"imgLarge": "/images/project/tj-project-1.webp",
+		"detailsImg": "/img/portfolio/portfolio-details-2.jpg",
+		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 이벤트 관리 플랫폼을 구축했습니다.",
+		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
+		"desc1": "목표는 이벤트 관리를 위한 완전한 플랫폼을 제공하는 것이었습니다. 이벤트 등록, 티켓 판매, 참가자 관리 등 모든 기능을 통합하여 원스톱 이벤트 경험을 제공합니다.",
+		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 사용자 만족도를 높였습니다.",
+
+		"category": "UX/UI",
+		"featured": true,
+		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
+		"featuredImg": "/img/project/project-3.png",
+		"employee": {
+			"name": "",
+			"desig": "",
+			"img": ""
+		},
+		"tags": ["전략", "성장"],
+		"dataFilter": "uxui",
+		"statusItem": [
+			{
+				"title": "카테고리",
+				"desc": "웹 개발"
+			},
+			{
+				"title": "클라이언트",
+				"desc": "이벤트 기업 G"
+			},
+			{
+				"title": "시작일",
+				"desc": "2023년 8월 20일"
+			},
+			{
+				"title": "개발자",
+				"desc": "개인 개발자"
+			}
+		],
+		"descItems": [
+			{
+				"title": "스토리",
+				"desc": "고객은 이벤트 관리를 위한 완전한 플랫폼을 구축하고자 했습니다. 우리는 맞춤형 플랫폼을 구축하여 고객의 요구사항을 정확히 충족시켰습니다."
+			},
+			{
+				"title": "우리의 접근 방식",
+				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다."
+			}
+		]
+	}
+]
