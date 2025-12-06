@@ -39,16 +39,14 @@ export default function Home() {
             <div style={{ marginBottom: "100px" }}></div>
             <Features />
 
-            {/* ------------------------------------- */}
 			
-            {/* 통계 및 성과 지표 표시 섹션 */}
-            <h1>Funfact</h1>
+            <div style={{ marginBottom: "100px" }}></div>
             <Funfact2 />
 
-            {/* 마퀴 슬라이더 - 로고나 텍스트가 흐르는 애니메이션 */}
-            <h1>MarqueeSlider</h1>
+            <div style={{ marginBottom: "100px" }}></div>
             <MarqueeSlider1 />
 
+            {/* ------------------------------------- */}
             {/* 포트폴리오 프로젝트 목록 섹션 */}
             <h1>Portfolios</h1>
             <Portfolios1 />

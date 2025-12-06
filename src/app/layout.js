@@ -25,13 +25,13 @@ const monaSans = Mona_Sans({
 });
 
 export const metadata = {
-	title: "Bexon - Corporate Business React NextJs Template",
-	description: "Bexon - Corporate Business React NextJs Template",
+	title: "Devpreneur - 웹/앱 개발 전문 기업",
+	description: "Devpreneur 기업 소개 페이지",
 };
 
 export default function RootLayout({ children }) {
 	return (
-		<html lang="en" data-scroll-behavior="smooth" dir="ltr">
+		<html lang="ko" data-scroll-behavior="smooth" dir="ltr">
 			<head>
 				<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css"/>
 			</head>
