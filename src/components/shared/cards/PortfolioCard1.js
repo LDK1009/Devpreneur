@@ -3,7 +3,7 @@ import Link from "next/link";
 const PortfolioCard1 = ({ portfolio }) => {
 	const {
 		title = "Event Management Platform",
-		img = "/images/project/project-1.webp",
+		thumbnail = "/images/project/project-1.webp",
 		shortDesc,
 		id,
 		dataFilter,
@@ -13,7 +13,7 @@ const PortfolioCard1 = ({ portfolio }) => {
 		<div className="project-item tj-arrange-item">
 			<div
 				className="project-img"
-				style={{ backgroundImage: `url(${img})` }}
+				style={{ backgroundImage: `url(${thumbnail})` }}
 			></div>
 			<div className="project-content">
 				<span className="categories">

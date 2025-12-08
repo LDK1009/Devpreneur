@@ -28,7 +28,7 @@ const MarqueeSlider1 = () => {
 								<h4 
 									className="marquee-text" 
 									style={{
-										WebkitTextStroke: "1px white",
+										WebkitTextStroke: "1px #777777",
 										WebkitTextFillColor: "transparent"
 									}}
 								>

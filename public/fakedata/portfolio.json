@@ -1,418 +1,207 @@
 [
-	{
-		"id": 1,
-		"title": "CALLO",
-		"title2": "제로칼로리 쇼핑몰",
-		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
-		"img": "/images/project/project-1.png",
-		"img2": "/images/project/project-1.webp",
-		"img3": "/images/project/project-6.webp",
-		"img4": "/images/project/project-4.webp",
-		"img5": "/images/project/h5-project-1.webp",
-		"img6": "/images/project/h6-project-1.webp",
-		"img7": "/images/project/project-4.webp",
-		"img8": "/images/project/h10-project-1.webp",
-		"imgLarge": "/images/project/tj-project-1.webp",
-		"detailsImg": "/img/portfolio/portfolio-details-1.jpg",
-		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 이커머스 플랫폼을 구축했습니다.",
-		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
-		"desc1": "목표는 고객의 온라인 판매를 위한 완전한 이커머스 솔루션을 제공하는 것이었습니다. 상품 관리, 주문 처리, 결제 시스템 등 모든 기능을 통합하여 원스톱 쇼핑 경험을 제공합니다.",
-		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 고객 만족도를 높였습니다. SEO 최적화를 통해 검색 엔진에서의 가시성을 향상시켰습니다.",
-		"category": "연결",
-		"featured": true,
-		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
-		"featuredImg": "/img/project/project-2.png",
-		"employee": {
-			"name": "개발자",
-			"desig": "풀스택 개발자",
-			"img": "/img/project/project-1.png"
-		},
-		"tags": ["전략", "성장"],
-		"dataFilter": "impact innovate",
-		"statusItem": [
-			{
-				"title": "카테고리",
-				"desc": "웹 개발"
-			},
-			{
-				"title": "클라이언트",
-				"desc": "스타트업 A"
-			},
-			{
-				"title": "시작일",
-				"desc": "2023년 8월 20일"
-			},
-			{
-				"title": "개발자",
-				"desc": "개인 개발자"
-			}
-		],
-		"descItems": [
-			{
-				"title": "스토리",
-				"desc": "고객은 온라인 판매를 시작하고자 했지만 기존 솔루션들이 복잡하고 비용이 많이 들었습니다. 우리는 맞춤형 이커머스 플랫폼을 구축하여 고객의 요구사항을 정확히 충족시켰습니다. 프로젝트는 3개월에 걸쳐 진행되었으며, 고객의 피드백을 지속적으로 반영하여 최종 결과물을 완성했습니다."
-			},
-			{
-				"title": "우리의 접근 방식",
-				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다. 반응형 디자인과 성능 최적화에 중점을 두어 사용자 경험을 향상시켰습니다."
-			}
-		]
-	},
-	{
-		"id": 2,
-		"title": "디지털 마케팅 캠페인",
-		"title2": "프로젝트 설명",
-		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
-		"img": "/images/project/project-2.png",
-		"img2": "/images/project/project-4.webp",
-		"img3": "/images/project/project-7.webp",
-		"img4": "/images/project/project-8.webp",
-		"img5": "/images/project/h5-project-1.webp",
-		"img6": "/images/project/h6-project-2.webp",
-		"img7": "/images/project/project-8.webp",
-		"img8": "/images/project/h10-project-2.webp",
-		"imgLarge": "/images/project/tj-project-1.webp",
-		"detailsImg": "/img/portfolio/portfolio-details-2.jpg",
-		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 웹사이트를 구축했습니다.",
-		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
-		"desc1": "목표는 고객의 온라인 마케팅 캠페인을 위한 효과적인 웹사이트를 구축하는 것이었습니다. SEO 최적화와 소셜 미디어 통합을 통해 브랜드 가시성을 높였습니다.",
-		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 고객 만족도를 높였습니다.",
-		"category": "강화",
-		"featured": true,
-		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
-		"featuredImg": "/img/project/project-3.png",
-		"employee": {
-			"name": "",
-			"desig": "",
-			"img": ""
-		},
-		"tags": ["전략", "성장"],
-		"dataFilter": "success lead impact",
-		"statusItem": [
-			{
-				"title": "카테고리",
-				"desc": "웹 개발"
-			},
-			{
-				"title": "클라이언트",
-				"desc": "스타트업 B"
-			},
-			{
-				"title": "시작일",
-				"desc": "2023년 8월 20일"
-			},
-			{
-				"title": "개발자",
-				"desc": "개인 개발자"
-			}
-		],
-		"descItems": [
-			{
-				"title": "스토리",
-				"desc": "고객은 온라인 마케팅 캠페인을 시작하고자 했지만 효과적인 웹사이트가 필요했습니다. 우리는 맞춤형 웹사이트를 구축하여 고객의 요구사항을 정확히 충족시켰습니다."
-			},
-			{
-				"title": "우리의 접근 방식",
-				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다."
-			}
-		]
-	},
-	{
-		"id": 3,
-		"title": "인터랙티브 학습 플랫폼",
-		"title2": "프로젝트 설명",
-		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
-		"img": "/images/project/project-3.png",
-		"img2": "/images/project/project-5.webp",
-		"img3": "/images/project/project-8.webp",
-		"img4": "/images/project/project-9.webp",
-		"img5": "/images/project/h5-project-3.webp",
-		"img6": "/images/project/h6-project-3.webp",
-		"img7": "/images/project/project-9.webp",
-		"img8": "/images/project/h10-project-3.webp",
-		"imgLarge": "/images/project/tj-project-1.webp",
-		"detailsImg": "/img/portfolio/portfolio-details-3.jpg",
-		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 학습 플랫폼을 구축했습니다.",
-		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
-		"desc1": "목표는 온라인 학습을 위한 완전한 플랫폼을 제공하는 것이었습니다. 강의 관리, 학생 관리, 평가 시스템 등 모든 기능을 통합하여 원스톱 학습 경험을 제공합니다.",
-		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 학습자 만족도를 높였습니다.",
-		"category": "지원",
-		"featured": true,
-		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
-		"featuredImg": "/img/project/project-4.png",
-		"employee": {
-			"name": "",
-			"desig": "",
-			"img": ""
-		},
-		"tags": ["전략", "성장"],
-		"dataFilter": "lead innovate",
-		"statusItem": [
-			{
-				"title": "카테고리",
-				"desc": "웹 개발"
-			},
-			{
-				"title": "클라이언트",
-				"desc": "교육 기관 C"
-			},
-			{
-				"title": "시작일",
-				"desc": "2023년 8월 20일"
-			},
-			{
-				"title": "개발자",
-				"desc": "개인 개발자"
-			}
-		],
-		"descItems": [
-			{
-				"title": "스토리",
-				"desc": "고객은 온라인 학습 플랫폼을 구축하고자 했지만 기존 솔루션들이 복잡하고 비용이 많이 들었습니다. 우리는 맞춤형 학습 플랫폼을 구축하여 고객의 요구사항을 정확히 충족시켰습니다."
-			},
-			{
-				"title": "우리의 접근 방식",
-				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다."
-			}
-		]
-	},
-	{
-		"id": 4,
-		"title": "환경 영향 대시보드",
-		"title2": "프로젝트 설명",
-		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
-		"img": "/images/project/project-4.png",
-		"img2": "/images/project/project-1.webp",
-		"img3": "/images/project/project-9.webp",
-		"img4": "/images/project/project-4.webp",
-		"img5": "/images/project/h5-project-1.webp",
-		"img6": "/images/project/h6-project-4.webp",
-		"img7": "/images/project/project-4.webp",
-		"img8": "/images/project/h10-project-4.webp",
-		"imgLarge": "/images/project/tj-project-1.webp",
-		"detailsImg": "/img/portfolio/portfolio-details-4.jpg",
-		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 대시보드를 구축했습니다.",
-		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
-		"desc1": "목표는 환경 데이터를 시각화하고 분석할 수 있는 완전한 대시보드를 제공하는 것이었습니다. 실시간 데이터 수집과 분석 기능을 통합하여 인사이트를 제공합니다.",
-		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 사용자 만족도를 높였습니다.",
-		"category": "비즈니스",
-		"featured": false,
-		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
-		"featuredImg": "/img/project/project-2.png",
-		"employee": {
-			"name": "",
-			"desig": "",
-			"img": ""
-		},
-		"tags": ["전략", "성장"],
-		"dataFilter": "success innovate",
-		"statusItem": [
-			{
-				"title": "카테고리",
-				"desc": "웹 개발"
-			},
-			{
-				"title": "클라이언트",
-				"desc": "환경 기업 D"
-			},
-			{
-				"title": "시작일",
-				"desc": "2023년 8월 20일"
-			},
-			{
-				"title": "개발자",
-				"desc": "개인 개발자"
-			}
-		],
-		"descItems": [
-			{
-				"title": "스토리",
-				"desc": "고객은 환경 데이터를 시각화하고 분석할 수 있는 대시보드를 구축하고자 했습니다. 우리는 맞춤형 대시보드를 구축하여 고객의 요구사항을 정확히 충족시켰습니다."
-			},
-			{
-				"title": "우리의 접근 방식",
-				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다."
-			}
-		]
-	},
-	{
-		"id": 5,
-		"title": "성장하는 기업을 위한 리브랜딩 전략",
-		"title2": "프로젝트 설명",
-		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
-		"img": "/images/project/project-3.webp",
-		"img2": "/images/project/project-4.webp",
-		"img3": "/images/project/project-6.webp",
-		"img4": "/images/project/project-8.webp",
-		"img5": "/images/project/h5-project-2.webp",
-		"img6": "/images/project/h6-project-5.webp",
-		"img7": "/images/project/project-8.webp",
-		"img8": "/images/project/h10-project-1.webp",
-		"imgLarge": "/images/project/tj-project-1.webp",
-		"detailsImg": "/img/portfolio/portfolio-details-4.jpg",
-		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 웹사이트를 구축했습니다.",
-		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
-		"desc1": "목표는 기업의 새로운 브랜드 아이덴티티를 반영한 현대적인 웹사이트를 구축하는 것이었습니다. 브랜드 가이드라인에 맞춰 일관된 디자인을 적용했습니다.",
-		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 브랜드 인지도를 높였습니다.",
+  {
+    "id": 1,
+    "title": "주식고사",
+    "category": "플랫폼",
+    "shortDesc": "문제 풀며 배우는 주식 공부 플랫폼",
+    "desc": "주식고사는 문제를 풀며 실전 투자 감각을 기를 수 있는 주식 학습 플랫폼입니다. 학습(기본 개념), 실천(실제 재무제표·뉴스 분석), 고찰(사례 분석·심리 판단), 응용(투자 시뮬레이션·포트폴리오 구성)의 4단계 구조로 단계적 학습이 가능합니다. DART, KRX, 뉴스 등 실제 데이터를 연동한 실시간 퀴즈와 배지·등급·랭킹 시스템을 통해 게임화된 학습 경험을 제공합니다.",
+    "featuredDesc": "KOSPI/KOSDAQ 종목별 주가 정보, 주요 지표, 뉴스 정보를 제공하고, 주식 문제를 생성하여 풀이할 수 있습니다.",
+    "features": [
+      "카카오톡 회원가입/로그인",
+      "KOSPI/KOSDAQ 종목별 주가 정보 제공",
+      "KOSPI/KOSDAQ 종목별 주요 지표 정보 제공",
+      "KOSPI/KOSDAQ 종목별 뉴스 정보 제공",
+      "주식 문제 생성 및 관리",
+      "주식 문제 추천 및 댓글",
+      "내 프로필 관리 및 조회"
+    ],
+    "projectInfo": {
+      "clients": "개인",
+      "budget": "6,000,000원",
+      "location": "서울특별시",
+      "completeDate": "2025년 10월 03일"
+    },
+    "thumbnail": "/images/project/project-1.png",
+    "smallThumbnail": "/images/project/project-small-1.png"
+  },
+  {
+    "id": 2,
+    "title": "CALLO",
+    "category": "쇼핑몰",
+    "shortDesc": "제로 칼로리 쇼핑몰",
+    "desc": "CALLO는 제로 칼로리 제품 전문 쇼핑몰입니다. 다이어트나 건강 관리를 위해 칼로리 걱정 없이 쇼핑하고 싶은 사용자들을 위해 다양한 제로 칼로리 푸드를 카테고리별로 추천하고 제공합니다. 데이터랩 기능을 통해 제품의 영양성분을 비교 분석할 수 있어, 더 나은 선택을 할 수 있도록 도와줍니다.",
+    "featuredDesc": "카테고리별 제로 푸드 추천 및 쇼핑 기능을 제공하며, 장바구니를 통해 편리하게 구매할 수 있습니다. 데이터랩 기능으로 제품 간 영양성분을 비교 분석하여 건강한 선택을 돕습니다.",
+    "features": [
+      "카카오톡 회원가입/로그인",
+      "카테고리별 제로 푸드 추천 및 쇼핑",
+      "장바구니 기능",
+      "데이터랩(영양성분 비교) 기능"
+    ],
+    "projectInfo": {
+      "clients": "개인",
+      "budget": "3,000,000원",
+      "location": "서울특별시",
+      "completeDate": "2025년 01월 04일"
+    },
+    "thumbnail": "/images/project/project-2.png",
+    "smallThumbnail": "/images/project/project-small-2.png"
+  },
+  {
+    "id": 3,
+    "title": "UNIQ",
+    "category": "플랫폼",
+    "shortDesc": "대학교 학과별 면접 질문 플랫폼",
+    "desc": "UNIQ는 대학교 입시를 준비하는 학생들을 위한 학과별 면접 질문 공유 플랫폼입니다. 각 학과별로 실제 면접에서 나왔던 질문들을 조회할 수 있으며, 유용한 질문에 투표하고 댓글로 면접 팁을 공유할 수 있습니다. 선배들의 경험을 바탕으로 면접 준비에 도움을 받을 수 있습니다.",
+    "featuredDesc": "학과별 면접 질문을 조회하고, 유용한 질문에 투표하며, 댓글로 면접 경험과 팁을 공유할 수 있는 커뮤니티 기반 학습 플랫폼입니다.",
+    "features": [
+      "카카오톡 회원가입/로그인",
+      "학과별 면접 질문 조회 기능",
+      "학과별 면접 질문 투표 기능",
+      "학과별 면접 질문 댓글 기능"
+    ],
+    "projectInfo": {
+      "clients": "개인",
+      "budget": "3,000,000원",
+      "location": "서울특별시",
+      "completeDate": "2025년 02월 05일"
+    },
+    "thumbnail": "/images/project/project-3.png",
+    "smallThumbnail": "/images/project/project-small-3.png"
+  },
+  {
+    "id": 4,
+    "title": "연애재판",
+    "category": "AI",
+    "shortDesc": "AI 연애 갈등 재판 에이전트",
+    "desc": "연애재판은 AI를 활용한 연애 갈등 해결 플랫폼입니다. 연인 간의 갈등 상황을 입력하면 AI가 객관적이고 합리적인 재판 결과를 제공합니다. 다양한 재판 사례를 조회하고, 다른 사용자들의 의견을 투표와 댓글을 통해 확인할 수 있어, 연애 문제에 대한 다양한 시각을 얻을 수 있습니다.",
+    "featuredDesc": "AI 재판 신청을 통해 연애 갈등 상황에 대한 객관적인 판단을 받을 수 있으며, 재판 사례를 조회하고 투표·댓글 기능으로 커뮤니티와 소통할 수 있습니다.",
+    "features": [
+      "카카오톡 회원가입/로그인",
+      "AI 재판 신청 및 결과 조회 기능",
+      "재판 사례 조회 기능",
+      "재판 사례 투표 기능",
+      "재판 사례 댓글 기능",
+      "내 프로필 관리 및 조회"
+    ],
+    "projectInfo": {
+      "clients": "개인",
+      "budget": "5,000,000원",
+      "location": "서울특별시",
+      "completeDate": "2025년 04월 02일"
+    },
+    "thumbnail": "/images/project/project-4.png",
+    "smallThumbnail": "/images/project/project-small-4.png"
+  },
 
-		"category": "연결",
-		"featured": false,
-		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
-		"featuredImg": "/img/project/project-2.png",
-		"employee": {
-			"name": "",
-			"desig": "",
-			"img": ""
-		},
-		"tags": ["전략", "성장"],
-		"dataFilter": "impact innovate",
-		"statusItem": [
-			{
-				"title": "카테고리",
-				"desc": "웹 개발"
-			},
-			{
-				"title": "클라이언트",
-				"desc": "기업 E"
-			},
-			{
-				"title": "시작일",
-				"desc": "2023년 8월 20일"
-			},
-			{
-				"title": "개발자",
-				"desc": "개인 개발자"
-			}
-		],
-		"descItems": [
-			{
-				"title": "스토리",
-				"desc": "고객은 기업의 새로운 브랜드 아이덴티티를 반영한 현대적인 웹사이트를 구축하고자 했습니다. 우리는 맞춤형 웹사이트를 구축하여 고객의 요구사항을 정확히 충족시켰습니다."
-			},
-			{
-				"title": "우리의 접근 방식",
-				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다."
-			}
-		]
-	},
-	{
-		"id": 6,
-		"title": "통합 마케팅 캠페인",
-		"title2": "프로젝트 설명",
-		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
-		"img": "/images/project/project-2.webp",
-		"img2": "/images/project/project-5.webp",
-		"img3": "/images/project/project-7.webp",
-		"img4": "/images/project/project-9.webp",
-		"img5": "/images/project/h5-project-3.webp",
-		"img6": "/images/project/h6-project-6.webp",
-		"img7": "/images/project/project-9.webp",
-		"img8": "/images/project/h10-project-1.webp",
-		"imgLarge": "/images/project/tj-project-1.webp",
-		"detailsImg": "/img/portfolio/portfolio-details-4.jpg",
-		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 웹사이트를 구축했습니다.",
-		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
-		"desc1": "목표는 통합 마케팅 캠페인을 위한 효과적인 웹사이트를 구축하는 것이었습니다. SEO 최적화와 소셜 미디어 통합을 통해 브랜드 가시성을 높였습니다.",
-		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 고객 만족도를 높였습니다.",
-
-		"category": "연결",
-		"featured": false,
-		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
-		"featuredImg": "/img/project/project-2.png",
-		"employee": {
-			"name": "",
-			"desig": "",
-			"img": ""
-		},
-		"tags": ["전략", "성장"],
-		"dataFilter": "impact innovate",
-		"statusItem": [
-			{
-				"title": "카테고리",
-				"desc": "웹 개발"
-			},
-			{
-				"title": "클라이언트",
-				"desc": "마케팅 기업 F"
-			},
-			{
-				"title": "시작일",
-				"desc": "2023년 8월 20일"
-			},
-			{
-				"title": "개발자",
-				"desc": "개인 개발자"
-			}
-		],
-		"descItems": [
-			{
-				"title": "스토리",
-				"desc": "고객은 통합 마케팅 캠페인을 위한 효과적인 웹사이트를 구축하고자 했습니다. 우리는 맞춤형 웹사이트를 구축하여 고객의 요구사항을 정확히 충족시켰습니다."
-			},
-			{
-				"title": "우리의 접근 방식",
-				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다."
-			}
-		]
-	},
-	{
-		"id": 7,
-		"title": "이벤트 관리 플랫폼",
-		"title2": "프로젝트 설명",
-		"titleLarge": "비즈니스를 위한 최첨단 솔루션으로 운영 효율성 혁신",
-		"img": "/images/project/project-4.webp",
-		"img2": "/images/project/project-8.webp",
-		"img3": "/images/project/project-8.webp",
-		"img4": "/images/project/project-4.webp",
-		"img5": "/images/project/h5-project-1.webp",
-		"img6": "/images/project/h6-project-1.webp",
-		"img7": "/images/project/project-4.webp",
-		"img8": "/images/project/h10-project-1.webp",
-		"imgLarge": "/images/project/tj-project-1.webp",
-		"detailsImg": "/img/portfolio/portfolio-details-2.jpg",
-		"desc": "고객의 비즈니스 요구사항을 정확히 이해하고, 최신 웹 기술을 활용하여 반응형 이벤트 관리 플랫폼을 구축했습니다.",
-		"shortDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다.",
-		"desc1": "목표는 이벤트 관리를 위한 완전한 플랫폼을 제공하는 것이었습니다. 이벤트 등록, 티켓 판매, 참가자 관리 등 모든 기능을 통합하여 원스톱 이벤트 경험을 제공합니다.",
-		"desc2": "반응형 디자인을 적용하여 모바일, 태블릿, 데스크톱 모든 기기에서 완벽하게 작동하도록 구현했습니다. 사용자 친화적인 인터페이스와 빠른 로딩 속도로 사용자 만족도를 높였습니다.",
-
-		"category": "UX/UI",
-		"featured": true,
-		"featuredDesc": "프로젝트는 정확성과 정보 전달에 중점을 두었습니다. 우리 디자인 팀은 고객이 웹사이트에 어필하는 마케팅 목표와 브랜딩을 달성하는 데 도움을 줍니다.",
-		"featuredImg": "/img/project/project-3.png",
-		"employee": {
-			"name": "",
-			"desig": "",
-			"img": ""
-		},
-		"tags": ["전략", "성장"],
-		"dataFilter": "uxui",
-		"statusItem": [
-			{
-				"title": "카테고리",
-				"desc": "웹 개발"
-			},
-			{
-				"title": "클라이언트",
-				"desc": "이벤트 기업 G"
-			},
-			{
-				"title": "시작일",
-				"desc": "2023년 8월 20일"
-			},
-			{
-				"title": "개발자",
-				"desc": "개인 개발자"
-			}
-		],
-		"descItems": [
-			{
-				"title": "스토리",
-				"desc": "고객은 이벤트 관리를 위한 완전한 플랫폼을 구축하고자 했습니다. 우리는 맞춤형 플랫폼을 구축하여 고객의 요구사항을 정확히 충족시켰습니다."
-			},
-			{
-				"title": "우리의 접근 방식",
-				"desc": "고객과의 긴밀한 협력을 통해 요구사항을 정확히 파악하고, 최신 기술 스택을 활용하여 확장 가능하고 유지보수가 쉬운 솔루션을 구축했습니다."
-			}
-		]
-	}
+  {
+    "id": 5,
+    "title": "앱 품앗이",
+    "category": "플랫폼",
+    "shortDesc": "비공개 테스트 품앗이 플랫폼",
+    "desc": "앱 품앗이는 앱 개발자들이 서로의 앱을 테스트해주는 품앗이 플랫폼입니다. 내 앱의 테스트 정보를 등록하고, 다른 개발자들의 앱 테스트를 신청할 수 있습니다. 신청 내역을 관리하고 수락·거절을 통해 효율적으로 테스트 품앗이를 진행할 수 있어, 비용 없이 다양한 사용자 피드백을 받을 수 있습니다.",
+    "featuredDesc": "내 앱 테스트 정보를 등록하고, 다른 개발자들의 앱 테스트를 신청하며, 신청 내역을 조회하고 수락·거절을 통해 테스트 품앗이를 관리할 수 있습니다.",
+    "features": [
+      "카카오톡 회원가입/로그인",
+      "내 품앗이 정보 입력 및 수정 기능",
+      "품앗이 신청 기능",
+      "품앗이 신청 내역 조회 기능",
+      "품앗이 수락/거절 기능"
+    ],
+    "projectInfo": {
+      "clients": "개인",
+      "budget": "4,000,000원",
+      "location": "서울특별시",
+      "completeDate": "2025년 04월 05일"
+    },
+    "thumbnail": "/images/project/project-5.png",
+    "smallThumbnail": "/images/project/project-small-5.png"
+  },
+  {
+    "id": 6,
+    "title": "Fake-DM",
+    "category": "솔루션",
+    "shortDesc": "DM 시뮬레이션 서비스",
+    "desc": "Fake-DM은 실제 DM처럼 보이는 모의 채팅을 생성할 수 있는 서비스입니다. 상대방의 닉네임과 프로필 이미지를 설정하고, 원하는 대화 내용을 입력하면 실제 인스타그램 DM처럼 보이는 이미지를 생성할 수 있습니다. 생성된 이미지를 다운로드하여 다양한 용도로 활용할 수 있습니다.",
+    "featuredDesc": "DM 모의 채팅을 입력하고, 상대방의 닉네임과 프로필 이미지를 변경하여 실제 DM처럼 보이는 이미지를 생성하고 다운로드할 수 있습니다.",
+    "features": [
+      "DM 모의 채팅 입력 기능",
+      "상대방 닉네임 변경 기능",
+      "상대방 프로필 이미지 변경 기능",
+      "모의 채팅 결과 이미지 다운로드 기능"
+    ],
+    "projectInfo": {
+      "clients": "개인",
+      "budget": "2,000,000원",
+      "location": "서울특별시",
+      "completeDate": "2025년 05월 03일"
+    },
+    "thumbnail": "/images/project/project-6.png",
+    "smallThumbnail": "/images/project/project-small-6.png"
+  },
+  {
+    "id": 7,
+    "title": "투유, 투데이",
+    "category": "플랫폼",
+    "shortDesc": "커스텀 이벤트 페이지 제작 플랫폼",
+    "desc": "투유, 투데이는 특별한 날을 위한 커스텀 이벤트 페이지를 쉽게 제작할 수 있는 플랫폼입니다. 생일, 기념일, 축하 등 다양한 이벤트를 위한 개인화된 페이지를 만들고, 템플릿을 공유하거나 다른 사용자의 템플릿을 활용하여 빠르게 제작할 수 있습니다. 완성된 이벤트 페이지를 선물하여 소중한 사람에게 특별한 경험을 선사할 수 있습니다.",
+    "featuredDesc": "커스텀 이벤트 페이지를 제작하고 수정할 수 있으며, 템플릿을 공유하거나 다른 템플릿을 활용하여 빠르게 제작할 수 있습니다. 완성된 페이지를 선물하기 기능으로 공유할 수 있습니다.",
+    "features": [
+      "카카오톡 회원가입/로그인",
+      "커스텀 이벤트 페이지 제작 및 수정 기능",
+      "커스텀 이벤트 페이지 템플릿 공유 기능",
+      "템플릿으로 이벤트 페이지 제작 시작하기 기능",
+      "커스텀 이벤트 페이지 선물하기 기능"
+    ],
+    "projectInfo": {
+      "clients": "개인",
+      "budget": "4,000,000원",
+      "location": "서울특별시",
+      "completeDate": "2025년 05월 15일"
+    },
+    "thumbnail": "/images/project/project-7.png",
+    "smallThumbnail": "/images/project/project-small-7.png"
+  },
+  {
+    "id": 8,
+    "title": "Tistory-To-Wordpress",
+    "category": "솔루션",
+    "shortDesc": "티스토리 마이그레이션 서비스",
+    "desc": "Tistory-To-Wordpress는 티스토리 블로그의 글을 워드프레스로 쉽게 옮길 수 있는 마이그레이션 서비스입니다. 티스토리 블로그의 글을 자동으로 가져와서 워드프레스 블로그에 등록하며, 마이그레이션 결과를 조회하여 진행 상황을 확인할 수 있습니다. 수동으로 옮기기 어려운 대량의 글을 효율적으로 이전할 수 있습니다.",
+    "featuredDesc": "티스토리 블로그 글을 자동으로 가져와 워드프레스에 등록하며, 마이그레이션 결과를 조회하여 진행 상황을 확인할 수 있습니다.",
+    "features": [
+      "티스토리 블로그 글 가져오기 기능",
+      "Wordpress 블로그 글 등록하기 기능",
+      "티스토리 블로그 글 가져오기 결과 조회 기능"
+    ],
+    "projectInfo": {
+      "clients": "개인",
+      "budget": "6,000,000원",
+      "location": "서울특별시",
+      "completeDate": "2025년 07월 10일"
+    },
+    "thumbnail": "/images/project/project-8.png",
+    "smallThumbnail": "/images/project/project-small-8.png"
+  },
+  {
+    "id": 9,
+    "title": "오토프레스",
+    "category": "솔루션",
+    "shortDesc": "워드프레스 AI 자동포스팅 프로그램",
+    "desc": "오토프레스는 워드프레스 블로그에 AI 기반 자동 포스팅을 수행하는 프로그램입니다. 실시간 뉴스를 분석하여 자동으로 키워드를 생성하고, AI가 뉴스 기반 블로그 포스팅을 작성하여 워드프레스에 자동으로 등록합니다. 자동 포스팅 결과를 조회하여 관리할 수 있어, 블로그 운영 시간을 절약하고 지속적인 콘텐츠 생산이 가능합니다.",
+    "featuredDesc": "실시간 뉴스를 기반으로 AI가 자동으로 키워드를 생성하고 블로그 포스팅을 작성하여 워드프레스에 자동 등록합니다. 워드프레스 계정 연동 및 자동 포스팅 결과 조회 기능을 제공합니다.",
+    "features": [
+      "자동 키워드 생성 기능",
+      "워드프레스 계정 연동 기능",
+      "실시간 뉴스 기반 AI 자동포스팅 기능",
+      "자동 포스팅 결과 조회 기능"
+    ],
+    "projectInfo": {
+      "clients": "개인",
+      "budget": "6,000,000원",
+      "location": "서울특별시",
+      "completeDate": "2025년 08월 20일"
+    },
+    "thumbnail": "/images/project/project-9.png",
+    "smallThumbnail": "/images/project/project-small-9.png"
+  }
 ]

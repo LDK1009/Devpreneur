@@ -5,8 +5,8 @@ import { Autoplay, Navigation, Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 const Testimonials7 = () => {
-	const showbleTestimonials = getTestimonials()?.slice(0, 3);
-	const testimonials = [...showbleTestimonials, ...showbleTestimonials];
+	const showbleTestimonials = getTestimonials();
+	const testimonials = [...showbleTestimonials];
 
 	return (
 		<section className="tj-testimonial-section h7-testimonial section-gap section-gap-x">
@@ -15,10 +15,10 @@ const Testimonials7 = () => {
 					<div className="col-12">
 						<div className="sec-heading style-2 style-7 sec-heading-centered">
 							<span className="sub-title wow fadeInUp" data-wow-delay=".3s">
-								<i className="tji-box"></i> CLIENT FEEDBACK
+								<i className="tji-box"></i> 고객 후기
 							</span>
 							<h2 className="sec-title text-anim">
-								Our Clients Share Their Success Stories.
+								고객들이 공유하는 실제 후기
 							</h2>
 						</div>
 					</div>

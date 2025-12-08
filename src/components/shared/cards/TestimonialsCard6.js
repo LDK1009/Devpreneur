@@ -2,12 +2,10 @@ import Image from "next/image";
 
 const TestimonialsCard6 = ({ testimonial }) => {
 	const {
+		contactRoute,
 		authorName,
-		authorDesig,
-		desc3,
-		img = "/images/testimonial/client-1.webp",
-		logoImg,
-		logoImgLight,
+		desc,
+		img = "/images/testimonial/client-1.png",
 	} = testimonial ? testimonial : {};
 	return (
 		<div className="testimonial-item">
@@ -23,13 +21,13 @@ const TestimonialsCard6 = ({ testimonial }) => {
 						/>
 					</div>
 					<div className="author-header">
-						<h4 className="title">{authorName}</h4>
-						<span className="designation">{authorDesig}</span>
+						<h4 className="title">{contactRoute}</h4>
+						<span className="designation">{authorName}</span>
 					</div>
 				</div>
 			</div>
 			<div className="desc">
-				<p>{desc3}</p>
+				<p>{desc}</p>
 			</div>
 			<div
 				className="star-ratings"
