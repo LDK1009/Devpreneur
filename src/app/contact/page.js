@@ -1,5 +1,6 @@
 import Footer from "@/components/layout/footer/Footer";
 import Header from "@/components/layout/header/Header";
+import Contact2 from "@/components/sections/contacts/Contact2";
 import Contact3 from "@/components/sections/contacts/Contact3";
 import ContactTop from "@/components/sections/contacts/ContactTop";
 import Cta from "@/components/sections/cta/Cta";
@@ -19,10 +20,10 @@ export default function Contact() {
 						<HeaderSpace />
 						<HeroInner title={"Contact Us"} text={"Contact Us"} />
 						<ContactTop />
-						<Contact3 />
-						<Cta />
+						<Contact2 />
+						<div style={{ width: "100%", height: "100px" }}></div>
 					</main>
-					<Footer />
+					{/* <Footer /> */}
 				</div>
 			</div>
 			<ClientWrapper />

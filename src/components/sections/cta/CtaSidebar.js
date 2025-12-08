@@ -6,7 +6,7 @@ const CtaSidebar = () => {
       <div className="feature-content">
         <h2 className="title">문의하기</h2>
         <span>
-          AM 08:00 ~ PM 22:00
+          AM 08:00 ~ PM 10:00
         </span>
         <Link className="read-more feature-contact" href="mailto:devpreneur.ko@gmail.com">
           <i className="tji-phone-3"></i>

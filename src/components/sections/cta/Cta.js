@@ -2,7 +2,7 @@ import ButtonPrimary from "@/components/shared/buttons/ButtonPrimary";
 
 const Cta = () => {
   return (
-    <section className="tj-cta-section">
+    <section className="tj-cta-section" style={{ marginBottom: "0px" }}>
       <div className="container">
         <div className="row">
           <div className="col-12">
@@ -14,7 +14,7 @@ const Cta = () => {
                   비즈니스를 성장으로.
                 </h2>
                 <div className="cta-btn wow fadeInUp" data-wow-delay=".6s">
-                  <ButtonPrimary text={"지금 시작하기"} url={"/contact"} className={"btn-dark"} />
+                  <ButtonPrimary text={"문의하기"} url={"/contact"} className={"btn-dark"} />
                 </div>
               </div>
               <div className="cta-img">

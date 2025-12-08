@@ -36,24 +36,25 @@ export default function Home() {
             <div style={{ marginBottom: "100px" }}></div>
             <Features />
 
+            {/* 제공 서비스 목록 및 소개 섹션 */}
+            <div style={{ marginBottom: "100px" }}></div>
+            <Services1 />
+
+            {/* 작업 프로세스 설명 섹션 */}
+            <div style={{ marginBottom: "100px" }}></div>
+            <Process />
+
+            {/* 성과지표 섹션 */}
             <div style={{ marginBottom: "100px" }}></div>
             <Funfact2 />
 
+            {/* 마퀴 슬라이더 섹션 */}
             <div style={{ marginBottom: "100px" }}></div>
             <MarqueeSlider1 />
 
             {/* 포트폴리오 프로젝트 목록 섹션 */}
             <div style={{ marginBottom: "100px" }}></div>
             <Portfolios1 />
-
-            {/* 작업 프로세스 설명 섹션 */}
-            <div style={{ marginBottom: "100px" }}></div>
-            <Process />
-
-            {/* ------------------------------------- */}
-            {/* 제공 서비스 목록 및 소개 섹션 */}
-            <div style={{ marginBottom: "100px" }}></div>
-            <Services1 />
 
             {/* 고객 후기 및 추천사 섹션 */}
             <div style={{ marginBottom: "100px" }}></div>
