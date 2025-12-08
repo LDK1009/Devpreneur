@@ -23,7 +23,7 @@ const MobileMenu = ({ isMobileMenuOpen, setIsMobileMenuOpen }) => {
 						<div className="hamburger_top d-flex align-items-center justify-content-between">
 							<div className="hamburger_logo">
 								<Link href="/" className="mobile_logo">
-									<img src="/images/logos/logo-2.webp" alt="Logo" />
+									<img src="/images/logos/logo-2.png" alt="Logo" />
 								</Link>
 							</div>
 							<div className="hamburger_close">
@@ -34,31 +34,33 @@ const MobileMenu = ({ isMobileMenuOpen, setIsMobileMenuOpen }) => {
 						</div>
 						<MobileNavbar />
 						<div className="hamburger-infos">
-							<h5 className="hamburger-title">Contact Info</h5>
+							<h5 className="hamburger-title">연락처 정보</h5>
 							<div className="contact-info">
-								<div className="contact-item">
+								{/* Phone - 주석 처리 */}
+								{/* <div className="contact-item">
 									<span className="subtitle">Phone</span>
 									<Link className="contact-link" href="tel:8089091313">
 										808-909-1313
 									</Link>
-								</div>
+								</div> */}
 								<div className="contact-item">
-									<span className="subtitle">Email</span>
-									<Link className="contact-link" href="mailto:info@bexon.com">
-										info@bexon.com
+									<span className="subtitle">이메일</span>
+									<Link className="contact-link" href="mailto:devpreneur.ko@gmail.com">
+										devpreneur.ko@gmail.com
 									</Link>
 								</div>
 								<div className="contact-item">
-									<span className="subtitle">Location</span>
+									<span className="subtitle">위치</span>
 									<span className="contact-link">
-										993 Renner Burg, West Rond, MT 94251-030
+									서울특별시 강남구 테헤란로 128, 379호
 									</span>
 								</div>
 							</div>
 						</div>
 					</div>
-					<div className="hamburger-socials">
-						<h5 className="hamburger-title">Follow Us</h5>
+					{/* 팔로우하기 섹션 - 주석 처리 */}
+					{/* <div className="hamburger-socials">
+						<h5 className="hamburger-title">팔로우하기</h5>
 						<div className="social-links style-3">
 							<ul>
 								<li>
@@ -83,7 +85,7 @@ const MobileMenu = ({ isMobileMenuOpen, setIsMobileMenuOpen }) => {
 								</li>
 							</ul>
 						</div>
-					</div>
+					</div> */}
 				</div>
 			</div>
 		</>

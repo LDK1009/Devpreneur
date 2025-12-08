@@ -29,7 +29,8 @@ const MobileNavbar = () => {
 					</Link>
 					<nav className="mean-nav">
 						<ul>
-							<MobileMenuItem
+							{/* ========== Home 메뉴 (주석 처리됨) ========== */}
+							{/* <MobileMenuItem
 								text={homeNav?.name}
 								url={homeNav?.path ? homeNav?.path : "#"}
 								submenuClass={"header__mega-menu mega-menu"}
@@ -86,8 +87,9 @@ const MobileNavbar = () => {
 										</div>
 									</div>
 								</li>
-							</MobileMenuItem>
-							<MobileMenuItem
+							</MobileMenuItem> */}
+							{/* ========== Pages 메뉴 (주석 처리됨) ========== */}
+							{/* <MobileMenuItem
 								text={pagesNav?.name}
 								url={pagesNav?.path}
 								submenuClass={"header__mega-menu mega-menu mega-menu-pages"}
@@ -160,8 +162,9 @@ const MobileNavbar = () => {
 										</div>
 									</div>
 								</li>
-							</MobileMenuItem>
-							<MobileMenuItem
+							</MobileMenuItem> */}
+							{/* ========== Services 메뉴 (주석 처리됨) ========== */}
+							{/* <MobileMenuItem
 								text={serviceNav?.name}
 								url={serviceNav?.path ? serviceNav?.path : "#"}
 								submenuClass={"mega-menu-service"}
@@ -194,25 +197,15 @@ const MobileNavbar = () => {
 											</li>
 									  ))
 									: ""}
-							</MobileMenuItem>
-							<MobileMenuItem
-								text={portfolioNav?.name}
-								url={portfolioNav?.path ? portfolioNav?.path : "#"}
-							>
-								{portfolioNav?.submenu?.length
-									? portfolioNav?.submenu?.map((item, idx) => (
-											<li
-												key={idx}
-												className={item?.isActive ? "current-menu-item" : ""}
-											>
-												<Link href={item?.path ? item?.path : "/portfolios"}>
-													{item?.name ? item?.name : "Portfolio"}
-												</Link>
-											</li>
-									  ))
-									: ""}
-							</MobileMenuItem>
-							<MobileMenuItem
+							</MobileMenuItem> */}
+							{/* ========== Portfolio 메뉴 ========== */}
+							<li className={portfolioNav?.isActive ? "current-menu-item" : ""}>
+								<Link href={portfolioNav?.path ? portfolioNav?.path : "#"}>
+									{portfolioNav?.name}
+								</Link>
+							</li>
+							{/* ========== Blog 메뉴 (주석 처리됨) ========== */}
+							{/* <MobileMenuItem
 								text={blogNav?.name}
 								url={blogNav?.path ? blogNav?.path : "#"}
 							>
@@ -228,7 +221,8 @@ const MobileNavbar = () => {
 											</li>
 									  ))
 									: ""}
-							</MobileMenuItem>
+							</MobileMenuItem> */}
+							{/* ========== Contact 메뉴 ========== */}
 							<li className="mean-last">
 								<Link href={contactNav?.path ? contactNav?.path : "#"}>
 									{" "}

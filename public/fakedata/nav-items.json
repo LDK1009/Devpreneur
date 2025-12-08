@@ -273,17 +273,17 @@
 	},
 	{
 		"id": 4,
-		"name": "Portfolio",
+		"name": "포트폴리오",
 		"path": "/portfolios",
 		"submenu": [
 			{
 				"id": 1,
-				"name": "Portfolios",
+				"name": "포트폴리오",
 				"path": "/portfolios"
 			},
 			{
 				"id": 2,
-				"name": "Portfolio details",
+				"name": "포트폴리오 상세",
 				"path": "/portfolios/1"
 			}
 		]
@@ -321,7 +321,7 @@
 	},
 	{
 		"id": 6,
-		"name": "Contact",
+		"name": "문의하기",
 		"path": "/contact"
 	}
 ]

@@ -62,8 +62,10 @@ export default function Home() {
             {/* 연락처 및 문의 폼 섹션 */}
             <div style={{ marginBottom: "100px" }}></div>
             <Contact2 />
+
+            <div style={{ width: "100%", height: "100px" }}></div>
           </main>
-          <Footer />
+          {/* <Footer /> */}
         </div>
       </div>
 

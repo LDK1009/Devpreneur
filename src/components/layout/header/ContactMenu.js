@@ -39,7 +39,8 @@ const ContactMenu = ({ isContactOpen, setIsContactOpen }) => {
 								leaders.
 							</p>
 						</div>
-						<div className="hamburger-search-area">
+						{/* 검색바 - 주석 처리 */}
+						{/* <div className="hamburger-search-area">
 							<h5 className="hamburger-title">Search Now!</h5>
 							<div className="hamburger_search">
 								<form method="get" action="/">
@@ -54,33 +55,34 @@ const ContactMenu = ({ isContactOpen, setIsContactOpen }) => {
 									/>
 								</form>
 							</div>
-						</div>
+						</div> */}
 						<div className="hamburger-infos">
-							<h5 className="hamburger-title">Contact Info</h5>
+							<h5 className="hamburger-title">연락처 정보</h5>
 							<div className="contact-info">
-								<div className="contact-item">
+								{/* Phone - 주석 처리 */}
+								{/* <div className="contact-item">
 									<span className="subtitle">Phone</span>
 									<Link className="contact-link" href="tel:10095447818">
 										+1 (009) 544-7818
 									</Link>
-								</div>
+								</div> */}
 								<div className="contact-item">
-									<span className="subtitle">Email</span>
-									<Link className="contact-link" href="mailto:info@bexon.com">
-										info@bexon.com
+									<span className="subtitle">이메일</span>
+									<Link className="contact-link" href="mailto:devpreneur.ko@gmail.com">
+										devpreneur.ko@gmail.com
 									</Link>
 								</div>
 								<div className="contact-item">
-									<span className="subtitle">Location</span>
+									<span className="subtitle">위치</span>
 									<span className="contact-link">
-										993 Renner Burg, West Rond, MT 94251-030
+										서울특별시 강남구 테헤란로 128, 379호
 									</span>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div className="hamburger-socials">
-						<h5 className="hamburger-title">Follow Us</h5>
+						<h5 className="hamburger-title">팔로우하기</h5>
 						<div className="social-links style-3">
 							<ul>
 								<li>

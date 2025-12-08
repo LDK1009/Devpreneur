@@ -18,7 +18,8 @@ const Navbar = ({ headerType, isStickyHeader }) => {
 		<div className="menu-area d-none d-lg-inline-flex align-items-center">
 			<nav id="mobile-menu" className="mainmenu">
 				<ul>
-					<li
+					{/* ========== Home 메뉴 (주석 처리됨) ========== */}
+					{/* <li
 						className={`has-dropdown ${
 							homeNav?.isActive ? "current-menu-ancestor" : ""
 						}`}
@@ -87,8 +88,9 @@ const Navbar = ({ headerType, isStickyHeader }) => {
 								</div>
 							</li>
 						</ul>
-					</li>
-					<li
+					</li> */}
+					{/* ========== Pages 메뉴 (주석 처리됨) ========== */}
+					{/* <li
 						className={`has-dropdown ${
 							pagesNav?.isActive ? "current-menu-ancestor" : ""
 						}`}
@@ -158,8 +160,9 @@ const Navbar = ({ headerType, isStickyHeader }) => {
 								</div>
 							</li>
 						</ul>
-					</li>
-					<li
+					</li> */}
+					{/* ========== Services 메뉴 (주석 처리됨) ========== */}
+					{/* <li
 						className={`has-dropdown ${
 							serviceNav?.isActive ? "current-menu-ancestor" : ""
 						}`}
@@ -197,31 +200,15 @@ const Navbar = ({ headerType, isStickyHeader }) => {
 								  ))
 								: ""}
 						</ul>
-					</li>
-					<li
-						className={`has-dropdown ${
-							portfolioNav?.isActive ? "current-menu-ancestor" : ""
-						}`}
-					>
+					</li> */}
+					{/* ========== Portfolio 메뉴 ========== */}
+					<li className={portfolioNav?.isActive ? "current-menu-item" : ""}>
 						<Link href={portfolioNav?.path ? portfolioNav?.path : "#"}>
 							{portfolioNav?.name}
 						</Link>
-						<ul className="sub-menu">
-							{portfolioNav?.submenu?.length
-								? portfolioNav?.submenu?.map((item, idx) => (
-										<li
-											key={idx}
-											className={item?.isActive ? "current-menu-item" : ""}
-										>
-											<Link href={item?.path ? item?.path : "/portfolios"}>
-												{item?.name ? item?.name : "Portfolio"}
-											</Link>
-										</li>
-								  ))
-								: ""}
-						</ul>
 					</li>
-					<li
+					{/* ========== Blog 메뉴 (주석 처리됨) ========== */}
+					{/* <li
 						className={`has-dropdown ${
 							blogNav?.isActive ? "current-menu-ancestor" : ""
 						}`}
@@ -243,7 +230,8 @@ const Navbar = ({ headerType, isStickyHeader }) => {
 								  ))
 								: ""}
 						</ul>
-					</li>
+					</li> */}
+					{/* ========== Contact 메뉴 ========== */}
 					<li className={contactNav?.isActive ? "current-menu-ancestor" : ""}>
 						<Link href={contactNav?.path ? contactNav?.path : "#"}>
 							{contactNav?.name ? contactNav?.name : "Contact"}

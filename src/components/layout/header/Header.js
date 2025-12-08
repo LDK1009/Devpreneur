@@ -41,13 +41,13 @@ const Header = ({
 			/>
 			{/* <!-- end: Offcanvas Menu --> */}
 
-			{/* Search Popup --> */}
-			<div
+			{/* Search Popup - 주석 처리 */}
+			{/* <div
 				className={`search-popup-overlay ${
 					isSearchOpen ? "search-popup-overlay-open" : ""
 				}`}
 				onClick={() => setIsSearchOpen(false)}
-			></div>
+			></div> */}
 			<header
 				className={`header-area ${
 					headerType === 10
@@ -105,7 +105,9 @@ const Header = ({
 									) : headerType === 5 ? (
 										""
 									) : (
-										<div className="header-search">
+										/* 검색 버튼 - 주석 처리 */
+										null
+										/* <div className="header-search">
 											<button
 												className={`search  ${
 													isSearchOpen ? "search-hide" : ""
@@ -144,16 +146,17 @@ const Header = ({
 													/>
 												</svg>
 											</button>
-										</div>
+										</div> */
 									)}
 									{headerType !== 5 ? (
 										<div className="header-button">
-											<ButtonPrimary text={"Let’s Talk"} url={"/contact"} />
+											<ButtonPrimary text={"문의하기"} url={"/contact"} />
 										</div>
 									) : (
 										""
 									)}
-									{headerType === 3 ||
+									{/* PC 모드 사이드바 버튼 - 주석 처리 */}
+									{/* {headerType === 3 ||
 									headerType === 8 ||
 									headerType === 9 ||
 									headerType === 10 ? (
@@ -167,7 +170,7 @@ const Header = ({
 											<span></span>
 											<span></span>
 										</div>
-									)}
+									)} */}
 								</div>
 								{/* <!-- menu bar --> */}
 								<div
@@ -183,8 +186,8 @@ const Header = ({
 					</div>
 				</div>
 
-				{/* <!-- Search Popup --> */}
-				<div className={`search_popup ${isSearchOpen ? "search-opened" : ""}`}>
+				{/* <!-- Search Popup - 주석 처리 --> */}
+				{/* <div className={`search_popup ${isSearchOpen ? "search-opened" : ""}`}>
 					<div className="container">
 						<div className="row justify-content-center">
 							<div className="col-8">
@@ -210,7 +213,7 @@ const Header = ({
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> */}
 			</header>
 		</>
 	);
