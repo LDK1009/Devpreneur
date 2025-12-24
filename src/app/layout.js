@@ -1,4 +1,6 @@
 import { Mona_Sans } from "next/font/google";
+import { GoogleAnalytics } from '@next/third-parties/google' // ✨
+
 import "react-range-slider-input/dist/style.css";
 import "swiper/css";
 import "swiper/css/effect-coverflow";
@@ -36,6 +38,7 @@ export default function RootLayout({ children }) {
 				<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css"/>
 			</head>
 			<body className={`${monaSans.variable}`}>{children}</body>
+			<GoogleAnalytics gaId="G-R42YS3GRPY" />
 		</html>
 	);
 }

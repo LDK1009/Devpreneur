@@ -28,6 +28,22 @@ export default function Home() {
             {/* 메인 히어로 섹션 - 첫 화면 메인 배너 */}
             <Hero />
 
+            {/* 포트폴리오 프로젝트 목록 섹션 */}
+            <div style={{ marginBottom: "100px" }}></div>
+            <Portfolios1 />
+
+            {/* 성과지표 섹션 */}
+            <div style={{ marginBottom: "100px" }}></div>
+            <Funfact2 />
+
+            {/* 고객 후기 및 추천사 섹션 */}
+            <div style={{ marginBottom: "100px" }}></div>
+            <Testimonials7 />
+
+            {/* 마퀴 슬라이더 섹션 */}
+            <div style={{ marginBottom: "100px" }}></div>
+            <MarqueeSlider1 />
+
             {/* 왜 선택해야 하는지 설명하는 섹션 */}
             <div style={{ marginBottom: "100px" }}></div>
             <Choose />
@@ -36,29 +52,9 @@ export default function Home() {
             <div style={{ marginBottom: "100px" }}></div>
             <Features />
 
-            {/* 제공 서비스 목록 및 소개 섹션 */}
-            <div style={{ marginBottom: "100px" }}></div>
-            <Services1 />
-
             {/* 작업 프로세스 설명 섹션 */}
             <div style={{ marginBottom: "100px" }}></div>
             <Process />
-
-            {/* 성과지표 섹션 */}
-            <div style={{ marginBottom: "100px" }}></div>
-            <Funfact2 />
-
-            {/* 마퀴 슬라이더 섹션 */}
-            <div style={{ marginBottom: "100px" }}></div>
-            <MarqueeSlider1 />
-
-            {/* 포트폴리오 프로젝트 목록 섹션 */}
-            <div style={{ marginBottom: "100px" }}></div>
-            <Portfolios1 />
-
-            {/* 고객 후기 및 추천사 섹션 */}
-            <div style={{ marginBottom: "100px" }}></div>
-            <Testimonials7 />
 
             {/* 연락처 및 문의 폼 섹션 */}
             <div style={{ marginBottom: "100px" }}></div>
